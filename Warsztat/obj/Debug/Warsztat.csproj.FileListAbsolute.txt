@@ -1,1 +1,2 @@
 c:\users\home\documents\visual studio 2013\Projects\Warsztat\Warsztat\bin\Debug\Warsztat.exe.config
+C:\Users\Home\Desktop\Warsztat\Warsztat\bin\Debug\Warsztat.exe.config
