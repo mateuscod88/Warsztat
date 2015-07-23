@@ -1,2 +1,20 @@
 c:\users\home\documents\visual studio 2013\Projects\Warsztat\Warsztat\bin\Debug\Warsztat.exe.config
 C:\Users\Home\Desktop\Warsztat\Warsztat\bin\Debug\Warsztat.exe.config
+C:\gitc\Warsztat\bin\Debug\Warsztat.exe.config
+C:\gitc\Warsztat\obj\Debug\Warsztat.csprojResolveAssemblyReference.cache
+C:\gitc\Warsztat\obj\Debug\MainWindow.baml
+C:\gitc\Warsztat\obj\Debug\MainWindow.g.cs
+C:\gitc\Warsztat\obj\Debug\App.g.cs
+C:\gitc\Warsztat\obj\Debug\Warsztat_MarkupCompile.cache
+C:\gitc\Warsztat\obj\Debug\Warsztat.g.resources
+C:\gitc\Warsztat\obj\Debug\Warsztat.Properties.Resources.resources
+C:\gitc\Warsztat\obj\Debug\Warsztat.csproj.GenerateResource.Cache
+C:\gitc\Warsztat\bin\Debug\Warsztat.exe
+C:\gitc\Warsztat\bin\Debug\Warsztat.pdb
+C:\gitc\Warsztat\obj\Debug\Warsztat.exe
+C:\gitc\Warsztat\obj\Debug\Warsztat.pdb
+C:\gitc\Warsztat\obj\Debug\Formularz_New_Client.baml
+C:\gitc\Warsztat\obj\Debug\Formularz_New_Client.g.cs
+C:\gitc - Kopiaasgadg\Warsztat\bin\Debug\Warsztat.exe.config
+C:\gitc - Kopiaasgadg\Warsztat\obj\Debug\Warsztat.exe
+C:\gitc - Kopiaasgadg\Warsztat\obj\Debug\Warsztat.pdb
